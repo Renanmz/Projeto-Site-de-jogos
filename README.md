@@ -13,3 +13,8 @@
 ## jogos:
     - C++
     - Python
+
+
+## Objetivo:
+
+    Construir um site que hospede jogos antigos e disputar pontuações contra outros usuarios
