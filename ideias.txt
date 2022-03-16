@@ -9,8 +9,8 @@ breakout 5 paulo tijolos classicos rodada
 
 conter:
 ranking de highscore pontos arbitraio, rodada, dificuldade
-login de usuario nome senha inicias 
-
+login de usuario nome, senha, (criptografar senha?) iniciais, email, autenticação
+banco de dados sql
 
 lingaugem Jogos:
 C++
