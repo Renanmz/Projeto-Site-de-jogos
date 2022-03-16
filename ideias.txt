@@ -1,0 +1,21 @@
+site com varios jogos #
+jogos:
+
+cobrinha 1 paulo
+asteroids 2 renan
+space invaders 3 renan 
+pong 4 renan
+breakout 5 paulo
+
+conter:
+ranking de highscore
+login de usuario
+
+
+lingaugem Jogos:
+C++
+Python(pygame)?
+
+javascript 6 paulo 
+html
+css
