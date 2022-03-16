@@ -2,14 +2,14 @@
 
 
 
-Linguagens usadas:
+## Linguagens usadas:
 
-__site:
-    html
-    css
-    javasript
-    sql
+## site:
+    - html
+    - css
+    - javasript
+    - sql
 
-__jogos:
-    C++
-    Python
+## jogos:
+    - C++
+    - Python
