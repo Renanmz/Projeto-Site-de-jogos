@@ -1,15 +1,15 @@
 site com varios jogos #
 jogos:
 
-cobrinha 1 paulo
-asteroids 2 renan
-space invaders 3 renan 
-pong 4 renan
-breakout 5 paulo
+cobrinha 1 paulo retangulo verde ponto
+asteroids 2 renan clorido ponto
+space invaders 3 renan colorido ponto
+pong 4 renan preto e branco rodada
+breakout 5 paulo tijolos classicos rodada
 
 conter:
-ranking de highscore
-login de usuario
+ranking de highscore pontos arbitraio, rodada, dificuldade
+login de usuario nome senha inicias 
 
 
 lingaugem Jogos:
@@ -18,4 +18,4 @@ Python(pygame)?
 
 javascript 6 paulo 
 html
-css
+css branco e preto
