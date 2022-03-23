@@ -1,15 +1,32 @@
 Av1 13/04
 
 
-1. Integrntes da Equipe
+1. Integrantes da Equipe
+
+	Paulo Frutos
+	Renan Miranda Zanella
 
 2. Tema do Trabalho
 	
-	um site para hospedar jogos antigos
+	Um site para hospedar jogos com ranking de pontos em banco de dados.
 	
 3. Escopo do Trabalho
 	
-	Nós planejamos criar um site que hospede 5 jogos antigos: snake, pong, space invaders, brick breaker e asteroids.
-	Nesse site haverá uma tabela de highscores para todos os jogos menciados anteriormente
+	Nós planejamos criar um site que hospede 5 jogos antigos, sendo eles: snake, pong, space invaders, brick breaker e asteroids. 
+	Nesse site haverá uma tabela de highscores para todos os jogos mencionados anteriormente.
 	
-4. Cronograma estidano ???
+4. Cronograma estimado
+
+	13/04 - 03/05 = Aprender sobre as linguagens escolhidas para fazer os jogos.
+	
+	04/05 - 20/05 = Iniciar o desenvolvimento dos jogos.
+	
+	21/05 - 31/05 = Desenvolver o site dos jogos.
+	
+	01/06 - 29/06 = Terminar o desenvolvimento dos jogos.
+	
+	30/06 - 20/07 = Desenvolver o banco de dados.
+	
+	21/07 - 03/08 = Concluir a base principal do projeto.
+	
+	04/08 - 30/11 = Polir e corrigir os erros dos projetos.
