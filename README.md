@@ -11,7 +11,7 @@
     - sql
 
 ## jogos:
-    - C++
+
     - Python
 
 
