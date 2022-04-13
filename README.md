@@ -10,6 +10,7 @@
     - javasript
     - sql
     - Python
+    - Flask para o login
 
 ## jogos:
 
