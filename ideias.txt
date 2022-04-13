@@ -13,8 +13,7 @@ login de usuario nome, senha, (criptografar senha?) iniciais, email, autenticaç
 banco de dados sql
 
 lingaugem Jogos:
-C++
-Python(pygame)?
+Javascript
 
 javascript 6 paulo 
 html
