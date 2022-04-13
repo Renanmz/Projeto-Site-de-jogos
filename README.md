@@ -9,10 +9,11 @@
     - css
     - javasript
     - sql
+    - Python
 
 ## jogos:
 
-    - Python
+    - Javascript
 
 
 ## Objetivo:
