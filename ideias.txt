@@ -12,7 +12,7 @@ ranking de highscore pontos arbitraio, rodada, dificuldade
 login de usuario nome, senha, (criptografar senha?) iniciais, email, autenticação
 banco de dados sql
 
-lingaugem Jogos:
+linguagem Jogos:
 Javascript
 
 javascript 6 paulo 
